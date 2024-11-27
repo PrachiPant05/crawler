@@ -1,0 +1,7 @@
+selenium
+webdriver-manager
+wordcloud
+streamlit
+langchain-google-genai
+google-generativeai
+langchain
