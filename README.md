@@ -1,4 +1,4 @@
-# AgentGrid-Hackathon
+
 This project is a web application built using Streamlit that scrapes research articles from a specified website and uses AI to generate detailed articles based on the scraped data. It integrates various Python libraries like Selenium for web scraping, Pandas for data handling, and LangChain with Google's Gemini model for AI-powered article generation.
 
 
